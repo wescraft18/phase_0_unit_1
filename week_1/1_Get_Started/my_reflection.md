@@ -9,6 +9,6 @@
 <!-- Add your reflection here. Remove the comment markers -->
 - I did not encounter any issues when installing git.  I did find navigating git challenging initially, but found http://pcottle.github.io/learnGitBranching/ to be a great resource to clear up my confusion.
 - git is a local repository that lives on a users computer, allowing them to track changes.  Whereas, GitHub is a remote repository that allows multiple users to track and merge changes, in real time, to a master version.
-- Version control is a system that records changes to a file or set of files over time so that specific versions can be recalled later.  Github is a remote repository that records these changes, so that multiple users can work on the same project, while tracking eachothers changes to the master file.
+- Version control is a system that records changes to a file or set of files over time so that specific versions can be recalled later.  Github is a remote repository that records these changes, so that multiple users can work on the same project, while tracking each others changes to the master file.
 - Developers use version control to record changes to files or sets of files, so they may revert to older versions or view what was changed and by whom.  This makes sense, as it allows multiple developers to collaborate on a single project while recording what changes each developer made to the project.
 - I still not completely confident resolving conflicts while merging, but plan to further my understanding.  I understanding branching, forking, and committing.
